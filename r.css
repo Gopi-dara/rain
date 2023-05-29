@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+button{
+background-color: red;
+}
+button:hover{
+background-color: darkred;
+}
